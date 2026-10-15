@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="https://slindilemajobeh.github.io" target="_blank"><img src="https://img.shields.io/badge/🌐_VISIT_MY_WEBSITE-slindilemajobeh.github.io-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Visit my website" height="34"/></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/📍_Brakpan,_South_Africa-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF" alt="Location"/>
   <img src="https://img.shields.io/badge/💼_Open_to_work-0D1117?style=flat-square&labelColor=0D1117&color=2EA043" alt="Open to work"/>
   <img src="https://img.shields.io/badge/🗣️_isiZulu_|_English-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF" alt="Languages"/>
@@ -155,6 +159,9 @@ Android marketplace connecting clients with nearby plumbers, electricians, mecha
 </a>
 <a href="https://github.com/SlindileMaJobeh" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="32"/>
+</a>
+<a href="https://slindilemajobeh.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/WEBSITE-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Website" height="32"/>
 </a>
 </p>
 
